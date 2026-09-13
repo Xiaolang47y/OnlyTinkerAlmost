@@ -4,9 +4,10 @@ license="MIT"
 
 [[mods]]
     modId="onlytinkeralmost"
-    version="1.5.0"
+    version="1.5.1"
     displayName="OnlyTinkerAlmost"
     authors="Xiaolang47y"
+    logoFile="logo.png"
     description='''
 Restricts the player to Tinkers' Construct (and addon) tools, weapons and armor.
 Vanilla and other-mod equipment can only be used for crafting, unless whitelisted in config/onlytinkeralmost-common.toml.
